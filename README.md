@@ -67,10 +67,8 @@ Respect the following design flow:
 
 The Employee Management System is a comprehensive solution that combines a backend built with Spring Boot and a frontend developed using Next.js and React. This system allows organizations to efficiently manage their employee data and provides functionalities for parsing CSV files, calculating average salaries, and displaying the results in a user-friendly interface.
 
-<video width="640" height="480" controls>
-  <source src="./static/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/dnnaaa/Full-Stack-Internship-Home-Assignment/assets/86857735/77ddb3fc-e772-4b19-89b0-ccfb6bef7b1d
+
 
 ## Backend
 
